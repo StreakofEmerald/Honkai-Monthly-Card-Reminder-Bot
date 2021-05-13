@@ -12,4 +12,4 @@ $weeklytime [00:00]: Allows the user to set a time for their weekly reset. Funct
 
 $versionreset [00:00]: Allows the user to set a time for their version reset. Functions similarly to $cardtime and $weeklytime, but is one-time only.
 
-$resetlookup [server]: Allows the user to lookup daily, weekly and version reset times for the specified server (NA, EU, JP, KR or CN). Times are in UTC +0. Version reset times are calculated from the expiration times of ingame version-exclusive event items (i.e. Bunny Cards for 4.7).
+$resetlookup [server]: Allows the user to lookup daily, weekly and version reset times for the specified server (NA, EU, SEA, JP, KR or CN). Times are in UTC +0. Version reset times are calculated from the expiration times of ingame version-exclusive event items (i.e. Bunny Cards for 4.7).
